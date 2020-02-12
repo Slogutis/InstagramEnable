@@ -1,0 +1,9 @@
+Package: com.abdullah.instagramenable
+Name: InstagramEnable
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Hidden features in Instagram!
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
